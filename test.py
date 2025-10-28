@@ -1,2 +1,2 @@
-print("hello world v8")
+print("hello world v100")
 print(2+2)
